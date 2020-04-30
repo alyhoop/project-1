@@ -1,1 +1,23 @@
+.App {
+  margin-top: 40px;
+}
 
+h1 {
+  letter-spacing: 3px;
+}
+
+
+/* github */
+.github {
+  font-size: 13px;
+  margin: 20px;
+  margin-top: 110px;
+  letter-spacing: 2px;
+}
+.github i {
+  padding: 5px;
+  color: black;
+}
+.github i:hover {
+  color: #b0a8a2;
+}
